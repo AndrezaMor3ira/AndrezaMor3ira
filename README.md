@@ -1,7 +1,7 @@
 # Olá!!! 👋 Eu sou Andreza Moreira
 Seja bem-vindo(a) ao meu perfil do GitHub!!!
 ## 🌟 Sobre mim! 
-![This is an alt text.](https://i.imgur.com/msoBGu0.png "This is a sample image.")
+![This is an alt text.](https://i.imgur.com/nMynUBV.png "This is a sample image.")
 - - -
 ## 🎯 Habilidades 
 * HTML, CSS
@@ -12,6 +12,7 @@ Seja bem-vindo(a) ao meu perfil do GitHub!!!
 * MySQL
 * Node.js
 * Python
+* React
 - - -
 ## 💼 Projetos anteriores 
 
